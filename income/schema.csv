@@ -1,0 +1,5 @@
+variable;definition
+atrisk;Proportion of the population with an equivalised net income (after social transfers) of less than 60% of the median of the equivalised net income of the total population
+year;calendar year
+agebracket;Age at 31 December of the previous year
+gender;gender (male or female)
