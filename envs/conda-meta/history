@@ -69,3 +69,10 @@
 +defaults/osx-64::pyzmq-20.0.0-py38h23ab428_1
 +defaults/osx-64::zeromq-4.3.3-hb1e8313_3
 # update specs: ['ipykernel']
+==> 2021-01-01 21:05:23 <==
+# cmd: /usr/local/Caskroom/miniconda/base/bin/conda install seaborn
+# conda version: 4.9.2
++defaults/noarch::seaborn-0.11.1-pyhd3eb1b0_0
++defaults/osx-64::libgfortran-3.0.1-h93005f0_2
++defaults/osx-64::scipy-1.5.2-py38h2515648_0
+# update specs: ['seaborn']
