@@ -21,6 +21,7 @@
 # Select rows or columns 
 `.iloc` -- integer locate
 `.loc`
+`df[df["column"]isin(["a","b","c"])]`
 
 # Sort 
 `df.sort_values("column_to_sort_by", ascending = False)`
