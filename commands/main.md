@@ -46,8 +46,10 @@
 # Data visualisation 
 
 ## Matplotlib
-``mpl.style.use('ggplot')``--optional: for ggplot-like style
-
+optional: for ggplot-like style
+```python
+mpl.style.use('ggplot')
+```
 ## Artist vs scription layer
 There are two styles/options of ploting with matplotlib. Plotting using the Artist layer and plotting using the scripting layer.
 * Option 1: Scripting layer (procedural method) - using matplotlib.pyplot as 'plt' *
