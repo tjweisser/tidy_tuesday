@@ -76,3 +76,13 @@
 +defaults/osx-64::libgfortran-3.0.1-h93005f0_2
 +defaults/osx-64::scipy-1.5.2-py38h2515648_0
 # update specs: ['seaborn']
+==> 2021-01-09 12:30:04 <==
+# cmd: /usr/local/Caskroom/miniconda/base/bin/conda install --prefix /Users/till/OneDrive - HEC Paris/Programming/tidy_tuesday/envs flake8 -y
+# conda version: 4.9.2
++defaults/noarch::flake8-3.8.4-py_0
++defaults/noarch::importlib-metadata-2.0.0-py_1
++defaults/noarch::pycodestyle-2.6.0-py_0
++defaults/noarch::pyflakes-2.2.0-py_0
++defaults/noarch::zipp-3.4.0-pyhd3eb1b0_0
++defaults/osx-64::mccabe-0.6.1-py38_1
+# update specs: ['flake8']
